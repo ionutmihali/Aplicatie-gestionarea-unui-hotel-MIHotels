@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AbsException" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAgAAAAABAAAAQAAABAAAA=</HashCode>
+      <FileName>AbsException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cazare" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAoBAAAAAAkEAAACAAAAAwkEAABAAhAAAQAAAAiAGA=</HashCode>
+      <FileName>Cazare.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IException" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAABAAAA=</HashCode>
+      <FileName>IException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Log" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAI=</HashCode>
+      <FileName>Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogareException" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>LogareException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogareUtilizator" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAEAAAAAAAAAEAAGAAAEABAgCAAAYAAAA=</HashCode>
+      <FileName>LogareUtilizator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeniuException" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MeniuException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIHotels" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEABAAAAAAABAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MIHotels.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RezervareException" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>RezervareException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="camera" Collapsed="true">
+    <Position X="7.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYAAAAAAAAAAAAAAAIAAIAABAAAAAIQAAAAAAA=</HashCode>
+      <FileName>Cazare.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
